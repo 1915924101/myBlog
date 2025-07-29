@@ -1,7 +1,4 @@
-#myBlog-web
 
-
-> A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
 
 ## 项目简介
 
